@@ -1,0 +1,20 @@
+body{background-color: #F5F5F5;
+text-align: center;}
+.hang1{display: flex;
+justify-content: center;}
+#sach1{background-color: white;
+width: 155px;
+height:166px;}
+#sach2{background-color: white;
+    width: 155px;
+    height:166px;
+margin-left: 20px;}
+.hang2{margin-top: 20px;
+    display: flex;
+    justify-content: center;}
+    .hang3{margin-top: 20px;
+        display: flex;
+        justify-content: center;}
+        #sach4{background-color: white;
+            width: 155px;
+            height:166px;}

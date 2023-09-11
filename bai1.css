@@ -1,0 +1,20 @@
+.noidung1{display: flex;
+background-color: blue;}
+button{margin-left:1328px;
+height: 30px;
+margin-top: 15px;
+}
+.noidung2{display: flex;}
+#New_task:after{content:"";
+    width: 1328px;
+    border-bottom:2px solid orange;
+    position: fixed;
+    margin-top: 20px;}
+.Add_task{margin-top: 7px;}
+
+.footer{background-color: aliceblue;
+padding: 20px;
+text-align: center;}
+.noidung3{background-color: #F7F7F7;}
+
+
